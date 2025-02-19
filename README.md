@@ -90,5 +90,47 @@
         <p>OPT</p>
       </td>
     </tr>
+    <tr>
+      <td align='Feature Squeezing'>
+        <p>Feature Squeezing</p>
+      </td>
+      <td align="None Attack">
+        <img src="https://github.com/user-attachments/assets/f723229a-cf83-4211-9585-47e11c179524" alt="Attack 1" width="200"/>
+        <p>None Attack</p>
+      </td>
+      <td align="BIM">
+        <img src="https://github.com/user-attachments/assets/4614a45f-91e5-44bf-8ffc-82bbd59e0899" alt="Attack 2" width="200"/>
+        <p>BIM</p>
+      </td>
+      <td align="PGD">
+        <img src="https://github.com/user-attachments/assets/f78e34d0-2517-4661-a76c-9ca90a9d850b" alt="Attack 3" width="200"/>
+        <p>PGD</p>
+      </td>
+      <td align="OPT">
+        <img src="https://github.com/user-attachments/assets/cf188045-a819-4c1c-8d36-eef57dfc389b" alt="Attack 4" width="200"/>
+        <p>OPT</p>
+      </td>
+    </tr>
+    <tr>
+      <td align='Gradient Sign Inversion'>
+        <p>Gradient Sign Inversion</p>
+      </td>
+      <td align="None Attack">
+        <img src="https://github.com/user-attachments/assets/f723229a-cf83-4211-9585-47e11c179524" alt="Attack 1" width="200"/>
+        <p>None Attack</p>
+      </td>
+      <td align="BIM">
+        <img src="https://github.com/user-attachments/assets/4614a45f-91e5-44bf-8ffc-82bbd59e0899" alt="Attack 2" width="200"/>
+        <p>BIM</p>
+      </td>
+      <td align="PGD">
+        <img src="https://github.com/user-attachments/assets/f78e34d0-2517-4661-a76c-9ca90a9d850b" alt="Attack 3" width="200"/>
+        <p>PGD</p>
+      </td>
+      <td align="OPT">
+        <img src="https://github.com/user-attachments/assets/cf188045-a819-4c1c-8d36-eef57dfc389b" alt="Attack 4" width="200"/>
+        <p>OPT</p>
+      </td>
+    </tr>
   </table>
 </div>
