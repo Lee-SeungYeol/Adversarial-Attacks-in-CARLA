@@ -69,7 +69,6 @@
         <p>OPT</p>
       </td>
     </tr>
-
     <tr>
       <td align='Original Model'>
         <p>Original Model</p>
