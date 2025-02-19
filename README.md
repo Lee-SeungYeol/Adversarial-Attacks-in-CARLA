@@ -78,7 +78,7 @@
         <p>None Attack</p>
       </td>
       <td align="BIM">
-        <img src="https://github.com/user-attachments/assets/a73cec50-3873-468b-8719-fc3b0fd708a1" alt="Attack 2" width="200"/>
+        <img src="https://github.com/user-attachments/assets/77638b1c-35a8-4ea6-b170-9d9b0202d84b" alt="Attack 2" width="200"/>
         <p>BIM</p>
       </td>
       <td align="PGD">
