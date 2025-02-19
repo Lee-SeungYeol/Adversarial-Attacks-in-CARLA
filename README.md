@@ -37,7 +37,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;입력되는 3개의 이미지는 Backbone modules(resnet18, mobilenet, vgg16)를 통해 처리되고 command는 speed modules를 통해 처리된후 각 계산 결과를 통합하여 steering angle과 throttle를 처리
 
-<img src="https://github.com/user-attachments/assets/2d8b2d96-328a-4167-8ddf-7821c936c443"  width="400" height="400"/>
+<img src="https://github.com/user-attachments/assets/2d8b2d96-328a-4167-8ddf-7821c936c443"  width="600" height="400"/>
 
 ## 4. 정상 주행 확인
 
