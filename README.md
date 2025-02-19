@@ -26,7 +26,7 @@
 |  | tools |
 |-------------|-------|
 | 개발 언어   |![Python](https://img.shields.io/badge/Python-3.8.4-3776AB?logo=python&logoColor=white)|
-| 사용 프레임워크| ![PyTorch] ([PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white))|
+| 사용 프레임워크| !([PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white))|
 | 가상 환경      | Carla 시뮬레이션|
 | 개발 환경      |Windows 11      |
 
