@@ -21,4 +21,11 @@
 | OPT      | Optimization-based Attack. 최적화 기법을 사용하여 공격을 수행하는 방법. |
 | BPDA     | Backward Pass Differentiable Approximation. 비차분 가능한 함수를 근사하여 공격을 수행하는 방법. |
 
+## 2. 개발 환경 및 개발 언어
+
+|  | tools |
+|-------------|-------|
+| 개발 언어   | python |
+
+
 ![Image](https://github.com/user-attachments/assets/845dc385-736e-44a0-a36d-36ef0f296fbc)
