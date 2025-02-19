@@ -70,11 +70,11 @@
       </td>
     </tr>
     <tr>
-      <td align='Original Model'>
-        <p>Original Model</p>
+      <td align='Adversarial Training'>
+        <p>Adversarial Training</p>
       </td>
       <td align="None Attack">
-        <img src="https://github.com/user-attachments/assets/845dc385-736e-44a0-a36d-36ef0f296fbc" alt="Attack 1" width="200"/>
+        <img src="https://github.com/user-attachments/assets/51cf6640-63c7-4bc6-9c09-d2d45e97fab2" alt="Attack 1" width="200"/>
         <p>None Attack</p>
       </td>
       <td align="BIM">
