@@ -14,10 +14,10 @@
 
 | 알고리즘 | 설명 |
 |-----------|-------|
-| I-FGSM   | Iterative Fast Gradient Sign Method. FGSM을 반복적으로 적용하여 공격을 수행하는 방법. |
-| BIM      | Basic Iterative Method. FGSM을 여러 단계에 걸쳐 반복적으로 적용하는 공격 방법. |
+| BIM   | Iterative Fast Gradient Sign Method. FGSM을 반복적으로 적용하여 공격을 수행하는 방법. |
+| MI-FGSM  | 모멘텀을 이용하여 적대적 샘플을 생서하는 공격 기법 |
 | PGD      | Projected Gradient Descent. BIM과 유사하지만, 각 단계에서 공격이 제한된 범위 내에 있도록 프로젝션을 적용. |
-| CW       | Carlini & Wagner Attack. 목표 모델을 속이기 위해 특별히 설계된 강력한 공격 방법. |
+| CW       | Carlini & Wagner Attack. $'L_1'$ |
 | OPT      | Optimization-based Attack. 최적화 기법을 사용하여 공격을 수행하는 방법. |
 | BPDA     | Backward Pass Differentiable Approximation. 비차분 가능한 함수를 근사하여 공격을 수행하는 방법. |
 
