@@ -40,7 +40,7 @@
 <img src="https://github.com/user-attachments/assets/2d8b2d96-328a-4167-8ddf-7821c936c443"  width="600" height="400"/>
 
 ## 4. 정상 주행 확인
-![Image](https://github.com/user-attachments/assets/355f8a29-f34b-4c91-b2f2-8b8d3f77aab6)
+![Image](https://github.com/user-attachments/assets/9e07201c-63a0-45f4-ab73-3583d2298ecd)
 
 ## 5. 각 방어 기법을 적용하여 공격 수행후 주행 확인
 
@@ -129,6 +129,27 @@
       </td>
       <td align="OPT">
         <img src="https://github.com/user-attachments/assets/e3f4714b-162a-4321-8985-6ca3fa6e4736" alt="Attack 4" width="200"/>
+        <p>OPT</p>
+      </td>
+    </tr>
+    <tr>
+      <td align='Gradient Removal Moudul'>
+        <p>Gradient Removal Moudul</p>
+      </td>
+      <td align="None Attack">
+        <img src="https://github.com/user-attachments/assets/9e07201c-63a0-45f4-ab73-3583d2298ecd" alt="Attack 1" width="200"/>
+        <p>None Attack</p>
+      </td>
+      <td align="BIM">
+        <img src="https://github.com/user-attachments/assets/9e07201c-63a0-45f4-ab73-3583d2298ecd" alt="Attack 2" width="200"/>
+        <p>BIM</p>
+      </td>
+      <td align="PGD">
+        <img src="https://github.com/user-attachments/assets/9e07201c-63a0-45f4-ab73-3583d2298ecd" alt="Attack 3" width="200"/>
+        <p>PGD</p>
+      </td>
+      <td align="OPT">
+        <img src="https://github.com/user-attachments/assets/9e07201c-63a0-45f4-ab73-3583d2298ecd" alt="Attack 4" width="200"/>
         <p>OPT</p>
       </td>
     </tr>
