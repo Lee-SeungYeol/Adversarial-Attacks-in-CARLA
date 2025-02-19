@@ -49,7 +49,9 @@
 <div align="center">
   <table>
     <tr>
-      <td align='Original Model'></td>
+      <td align='Original Model'>
+        <p>Original Model</p>
+      </td>
       <td align="None Attack">
         <img src="https://github.com/user-attachments/assets/845dc385-736e-44a0-a36d-36ef0f296fbc" alt="Attack 1" width="200"/>
         <p>I-FGSM</p>
@@ -64,7 +66,7 @@
       </td>
       <td align="OPT">
         <img src="https://github.com/user-attachments/assets/2a50dbf5-c7ab-4ab8-8361-5c18efd7d46f" alt="Attack 4" width="200"/>
-        <p>CW</p>
+        <p>OPT</p>
       </td>
     </tr>
   </table>
