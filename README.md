@@ -161,3 +161,12 @@
 resnet18, mobilenet, vgg16을 backbone module로 정상 주행 결과 아래그림과 같은 결과를 확인
 
 ![image](https://github.com/user-attachments/assets/3c99e91b-63c1-4f95-832b-5c3f95c307f9)
+
+### 공격결과
+![image](https://github.com/user-attachments/assets/1cf482b9-f73b-4e99-93fa-6b6ea8d70c95)
+
+
+### 각 방어기법에 대한 steering angle 값 분포 
+![image](https://github.com/user-attachments/assets/7777d95e-c9b7-4323-bdbd-bb832fe895e5)
+
+
