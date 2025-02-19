@@ -10,5 +10,15 @@
 
 ### 1-2. 프로젝트 목표 및 주요 기능
 ### 최종 목표 : 공격 받고 있는 자율주행 자동차를 정상주행 할수 있는 방어 개발
+#### 공격 알고리즘
+
+| 알고리즘 | 설명 |
+|----------|------|
+| I-FGSM   | Iterative Fast Gradient Sign Method. FGSM을 반복적으로 적용하여 공격을 수행하는 방법. |
+| BIM      | Basic Iterative Method. FGSM을 여러 단계에 걸쳐 반복적으로 적용하는 공격 방법. |
+| PGD      | Projected Gradient Descent. BIM과 유사하지만, 각 단계에서 공격이 제한된 범위 내에 있도록 프로젝션을 적용. |
+| CW       | Carlini & Wagner Attack. 목표 모델을 속이기 위해 특별히 설계된 강력한 공격 방법. |
+| OPT      | Optimization-based Attack. 최적화 기법을 사용하여 공격을 수행하는 방법. |
+| BPDA     | Backward Pass Differentiable Approximation. 비차분 가능한 함수를 근사하여 공격을 수행하는 방법. |
 
 ![Image](https://github.com/user-attachments/assets/845dc385-736e-44a0-a36d-36ef0f296fbc)
