@@ -54,7 +54,29 @@
       </td>
       <td align="None Attack">
         <img src="https://github.com/user-attachments/assets/845dc385-736e-44a0-a36d-36ef0f296fbc" alt="Attack 1" width="200"/>
-        <p>I-FGSM</p>
+        <p>None Attack</p>
+      </td>
+      <td align="BIM">
+        <img src="https://github.com/user-attachments/assets/a73cec50-3873-468b-8719-fc3b0fd708a1" alt="Attack 2" width="200"/>
+        <p>BIM</p>
+      </td>
+      <td align="PGD">
+        <img src="https://github.com/user-attachments/assets/a6226ee1-1b08-42ef-a4bd-7b7d959ce64d" alt="Attack 3" width="200"/>
+        <p>PGD</p>
+      </td>
+      <td align="OPT">
+        <img src="https://github.com/user-attachments/assets/2a50dbf5-c7ab-4ab8-8361-5c18efd7d46f" alt="Attack 4" width="200"/>
+        <p>OPT</p>
+      </td>
+    </tr>
+
+    <tr>
+      <td align='Original Model'>
+        <p>Original Model</p>
+      </td>
+      <td align="None Attack">
+        <img src="https://github.com/user-attachments/assets/845dc385-736e-44a0-a36d-36ef0f296fbc" alt="Attack 1" width="200"/>
+        <p>None Attack</p>
       </td>
       <td align="BIM">
         <img src="https://github.com/user-attachments/assets/a73cec50-3873-468b-8719-fc3b0fd708a1" alt="Attack 2" width="200"/>
