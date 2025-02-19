@@ -1,4 +1,4 @@
-![normal_resnet_0-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/926f7429-d09f-4a9c-bf70-7539c3e56250)# 모방학습 기반 자율주행 자동차에 대한 적대적 공격 및 대응 방안
+# 모방학습 기반 자율주행 자동차에 대한 적대적 공격 및 대응 방안
 
 ## 1. 프로젝트의 개요
 ### 1-1. 프로젝트 개발 배경
@@ -42,12 +42,14 @@
 ## 4. 정상 주행 확인
 ![Image](https://github.com/user-attachments/assets/355f8a29-f34b-4c91-b2f2-8b8d3f77aab6)
 
-
 ## 5. 각 방어 기법을 적용하여 공격 수행후 주행 확인
+
+
 
 <div align="center">
   <table>
     <tr>
+      <td align='Original Model'></td>
       <td align="None Attack">
         <img src="https://github.com/user-attachments/assets/845dc385-736e-44a0-a36d-36ef0f296fbc" alt="Attack 1" width="200"/>
         <p>I-FGSM</p>
@@ -56,12 +58,12 @@
         <img src="https://github.com/user-attachments/assets/a73cec50-3873-468b-8719-fc3b0fd708a1" alt="Attack 2" width="200"/>
         <p>BIM</p>
       </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/845dc385-736e-44a0-a36d-36ef0f296fbc" alt="Attack 3" width="200"/>
+      <td align="PGD">
+        <img src="https://github.com/user-attachments/assets/a6226ee1-1b08-42ef-a4bd-7b7d959ce64d" alt="Attack 3" width="200"/>
         <p>PGD</p>
       </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/845dc385-736e-44a0-a36d-36ef0f296fbc" alt="Attack 4" width="200"/>
+      <td align="OPT">
+        <img src="https://github.com/user-attachments/assets/2a50dbf5-c7ab-4ab8-8361-5c18efd7d46f" alt="Attack 4" width="200"/>
         <p>CW</p>
       </td>
     </tr>
