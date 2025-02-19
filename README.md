@@ -52,8 +52,8 @@
         <img src="https://github.com/user-attachments/assets/845dc385-736e-44a0-a36d-36ef0f296fbc" alt="Attack 1" width="200"/>
         <p>I-FGSM</p>
       </td>
-      <td align="I">
-        <img src="https://github.com/user-attachments/assets/845dc385-736e-44a0-a36d-36ef0f296fbc" alt="Attack 2" width="200"/>
+      <td align="BIM">
+        <img src="https://github.com/user-attachments/assets/a73cec50-3873-468b-8719-fc3b0fd708a1" alt="Attack 2" width="200"/>
         <p>BIM</p>
       </td>
       <td align="center">
