@@ -82,11 +82,11 @@
         <p>BIM</p>
       </td>
       <td align="PGD">
-        <img src="https://github.com/user-attachments/assets/a6226ee1-1b08-42ef-a4bd-7b7d959ce64d" alt="Attack 3" width="200"/>
+        <img src="https://github.com/user-attachments/assets/3403291e-ced8-42ef-a54f-1810fe78c0de" alt="Attack 3" width="200"/>
         <p>PGD</p>
       </td>
       <td align="OPT">
-        <img src="https://github.com/user-attachments/assets/2a50dbf5-c7ab-4ab8-8361-5c18efd7d46f" alt="Attack 4" width="200"/>
+        <img src="https://github.com/user-attachments/assets/dc07d23b-e194-4a1f-8cb9-bc418807ecc2" alt="Attack 4" width="200"/>
         <p>OPT</p>
       </td>
     </tr>
