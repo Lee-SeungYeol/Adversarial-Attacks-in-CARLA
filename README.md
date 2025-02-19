@@ -155,3 +155,9 @@
     </tr>
   </table>
 </div>
+
+## 6. 결과
+
+resnet18, mobilenet, vgg16을 backbone module로 정상 주행 결과 아래그림과 같은 결과를 확인
+
+![image](https://github.com/user-attachments/assets/3c99e91b-63c1-4f95-832b-5c3f95c307f9)
