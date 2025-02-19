@@ -25,7 +25,7 @@
 
 |  | tools |
 |-------------|-------|
-| 개발 언어   | python |
+| 개발 언어   |![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 
 
 ![Image](https://github.com/user-attachments/assets/845dc385-736e-44a0-a36d-36ef0f296fbc)
