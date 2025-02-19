@@ -13,7 +13,7 @@
 #### 공격 알고리즘
 
 | 알고리즘 | 설명 |
-|----------|------|
+|-----------|-------|
 | I-FGSM   | Iterative Fast Gradient Sign Method. FGSM을 반복적으로 적용하여 공격을 수행하는 방법. |
 | BIM      | Basic Iterative Method. FGSM을 여러 단계에 걸쳐 반복적으로 적용하는 공격 방법. |
 | PGD      | Projected Gradient Descent. BIM과 유사하지만, 각 단계에서 공격이 제한된 범위 내에 있도록 프로젝션을 적용. |
