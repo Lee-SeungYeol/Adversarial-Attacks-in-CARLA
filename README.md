@@ -116,19 +116,19 @@
         <p>Gradient Sign Inversion</p>
       </td>
       <td align="None Attack">
-        <img src="https://github.com/user-attachments/assets/f723229a-cf83-4211-9585-47e11c179524" alt="Attack 1" width="200"/>
+        <img src="https://github.com/user-attachments/assets/f2e14525-37e6-4f34-878f-8c089fc817cb" alt="Attack 1" width="200"/>
         <p>None Attack</p>
       </td>
       <td align="BIM">
-        <img src="https://github.com/user-attachments/assets/4614a45f-91e5-44bf-8ffc-82bbd59e0899" alt="Attack 2" width="200"/>
+        <img src="https://github.com/user-attachments/assets/42933a65-bf00-4333-86ea-c0034e89b087" alt="Attack 2" width="200"/>
         <p>BIM</p>
       </td>
       <td align="PGD">
-        <img src="https://github.com/user-attachments/assets/f78e34d0-2517-4661-a76c-9ca90a9d850b" alt="Attack 3" width="200"/>
+        <img src="https://github.com/user-attachments/assets/f68cbcb3-641e-4cbd-ad9b-62d5ab33a0bb" alt="Attack 3" width="200"/>
         <p>PGD</p>
       </td>
       <td align="OPT">
-        <img src="https://github.com/user-attachments/assets/cf188045-a819-4c1c-8d36-eef57dfc389b" alt="Attack 4" width="200"/>
+        <img src="https://github.com/user-attachments/assets/e3f4714b-162a-4321-8985-6ca3fa6e4736" alt="Attack 4" width="200"/>
         <p>OPT</p>
       </td>
     </tr>
