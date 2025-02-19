@@ -32,10 +32,12 @@
 
 ## 3. 시스템 구조도
 
-&nbsp;&nbsp;&nbsp;&nbsp;가상환경에서 차량에 좌측, 중앙, 우측 카메라를 설치한뒤 주행하여 RGB 형태의 이미지 데이터를 수집하여 throttle, steering angle값을 라벨링 수행. steering angle 값이 0.0이 빈도수가 많아 under sampling과 over sampling을 수행하여 데이터를 조정
+&nbsp;&nbsp;&nbsp;&nbsp;가상환경에서 차량에 좌측, 중앙, 우측 카메라를 설치한뒤 주행하여 RGB 형태의 이미지 데이터와 command(좌회전, 우회전, 직진)를 수집하여 throttle, steering angle값을 라벨링 수행. steering angle 값이 0.0이 빈도수가 많아 under sampling과 over sampling을 수행하여 데이터를 조정
 ![image](https://github.com/user-attachments/assets/4c667e3f-8b27-4413-b43a-d9351cbc8f89)
 
-![이미지](https://github.com/user-attachments/assets/0cc90ccb-80b1-40ee-99bb-27c648d253b1)
+&nbsp;&nbsp;&nbsp;&nbsp;입력되는 3개의 이미지는 Backbone modules(resnet18, mobilenet, vgg16)를 통해 처리되고 command는 speed modules를 통해 처리된후 각 계산 결과를 통합하여 steering angle과 throttle를 처리
+![이미지_2](https://github.com/user-attachments/assets/2d8b2d96-328a-4167-8ddf-7821c936c443)
+
 
 
 ![Image](https://github.com/user-attachments/assets/845dc385-736e-44a0-a36d-36ef0f296fbc)
