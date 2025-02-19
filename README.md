@@ -30,5 +30,10 @@
 | 가상 환경      | Carla 시뮬레이션|
 | 개발 환경      |Windows 11      |
 
+## 3. 시스템 구조도
+
+&nbsp;&nbsp;&nbsp;&nbsp;가상환경에서 차량에 좌측, 중앙, 우측 카메라를 설치한뒤 주행하여 RGB 형태의 이미지 데이터를 수집하여 throttle, steering angle값을 라벨링 수행. steering angle 값이 0.0이 빈도수가 많아 under sampling과 over sampling을 수행하여 데이터를 조정
+
+![image](https://github.com/user-attachments/assets/4c667e3f-8b27-4413-b43a-d9351cbc8f89)
 
 ![Image](https://github.com/user-attachments/assets/845dc385-736e-44a0-a36d-36ef0f296fbc)
