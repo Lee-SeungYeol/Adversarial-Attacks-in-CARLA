@@ -42,3 +42,28 @@
 ## 4. 정상 주행 확인
 
 ![Image](https://github.com/user-attachments/assets/845dc385-736e-44a0-a36d-36ef0f296fbc)
+
+## 5. 각 방어 기법을 적용하여 공격 수행후 주행 확인
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/845dc385-736e-44a0-a36d-36ef0f296fbc" alt="Attack 1" width="200"/>
+        <p>I-FGSM</p>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/845dc385-736e-44a0-a36d-36ef0f296fbc" alt="Attack 2" width="200"/>
+        <p>BIM</p>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/845dc385-736e-44a0-a36d-36ef0f296fbc" alt="Attack 3" width="200"/>
+        <p>PGD</p>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/845dc385-736e-44a0-a36d-36ef0f296fbc" alt="Attack 4" width="200"/>
+        <p>CW</p>
+      </td>
+    </tr>
+  </table>
+</div>
